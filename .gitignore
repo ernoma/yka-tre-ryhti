@@ -1,0 +1,6 @@
+
+populate_db_with_ryhti_codes.py
+codes
+*.csv
+yka-tre-ryhti_muistiinpanoja.txt
+create_db_tables.sql
